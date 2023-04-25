@@ -1,0 +1,54 @@
+{
+ "charts": [
+  {
+   "chart_name": "Incoming Leads",
+   "label": "Incoming Leads"
+  }
+ ],
+ "content": "[{\"id\":\"RvmrFpGU0z\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Easy Prospection</span>\",\"col\":12}},{\"id\":\"fja4zKG0ox\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Incoming Leads\",\"col\":12}},{\"id\":\"AWHVofVcy6\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Prospection Follow Up\",\"col\":4}},{\"id\":\"RwVCDSXV2m\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Action Types\",\"col\":4}},{\"id\":\"sQqud-2it6\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Todo\",\"col\":4}}]",
+ "creation": "2023-04-25 15:07:23.354450",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "call",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Easy Prospection",
+ "links": [],
+ "modified": "2023-04-25 15:11:07.089661",
+ "modified_by": "Administrator",
+ "module": "Easy Prospection",
+ "name": "Easy Prospection",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "CRM",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 31.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Action Types",
+   "link_to": "Action Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Prospection Follow Up",
+   "link_to": "Prospection Follow-Up",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Todo",
+   "link_to": "ToDo",
+   "type": "DocType"
+  }
+ ],
+ "title": "Easy Prospection"
+}
