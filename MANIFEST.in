@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include easyprospection *.css
+recursive-include easyprospection *.csv
+recursive-include easyprospection *.html
+recursive-include easyprospection *.ico
+recursive-include easyprospection *.js
+recursive-include easyprospection *.json
+recursive-include easyprospection *.md
+recursive-include easyprospection *.png
+recursive-include easyprospection *.py
+recursive-include easyprospection *.svg
+recursive-include easyprospection *.txt
+recursive-exclude easyprospection *.pyc
