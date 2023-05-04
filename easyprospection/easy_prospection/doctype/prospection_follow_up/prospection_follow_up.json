@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "autoname": "PFU-.MM.-.YY.-.#####",
  "creation": "2023-04-25 14:04:41.373000",
@@ -52,6 +53,7 @@
    "read_only": 1
   },
   {
+   "allow_bulk_edit": 1,
    "fieldname": "prospection_action",
    "fieldtype": "Table",
    "in_filter": 1,
@@ -78,7 +80,7 @@
  "is_calendar_and_gantt": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2023-04-25 15:03:21.798131",
+ "modified": "2023-05-04 13:30:02.067613",
  "modified_by": "Administrator",
  "module": "Easy Prospection",
  "name": "Prospection Follow-Up",
